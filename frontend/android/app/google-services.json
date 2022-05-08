@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668554021129",
+    "project_id": "internet-of-things-10874",
+    "storage_bucket": "internet-of-things-10874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668554021129:android:f4b44e4e6c38ded87d6bd8",
+        "android_client_info": {
+          "package_name": "IOT.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668554021129-fbbjo8qeotbvvnu3e1cqh5gekhmskqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eCDeF42wEIK-oYmUhJiZaUQSCWHqVrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668554021129-fbbjo8qeotbvvnu3e1cqh5gekhmskqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
